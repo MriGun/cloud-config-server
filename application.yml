@@ -19,4 +19,4 @@ eureka:
   order-service:
     endpoints:
       endpoint:
-        uri:http://PAYMENT-SERVICE/api/order/book-order
+        uri:http://ORDER-SERVICE/api/order/book-order
